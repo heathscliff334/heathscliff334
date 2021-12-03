@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
 </div>
 
 
-<h2>👀 My github Stats</h2>
+<h2>My github Stats</h2>
 
 <div>
 <!--   <p align="center">
