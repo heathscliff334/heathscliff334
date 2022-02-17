@@ -1,4 +1,4 @@
-# Hi there 👋, Kevin Laurence. 
+# Hi there 👋, 
 [![GitHub followers](https://img.shields.io/github/followers/heathscliff334.svg?style=social&label=Follow)](https://github.com/heathscliff334?tab=followers)<br/>
 
 
@@ -6,7 +6,7 @@
 
 ## ***About me***
 
-I am an undergraduate Computer science with some skills like HTML, PHP, JavaScript, and Dart. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate Computer Science with some skills like HTML, PHP, JavaScript, and Dart. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Mobile Development, Backend, and Full Stack**
 - 🌱 I’m currently learning ...
   - Dart
