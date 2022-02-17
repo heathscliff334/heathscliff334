@@ -6,8 +6,8 @@
 
 ## ***About me***
 
-I am an undergraduate Computer Science with some skills like HTML, PHP, JavaScript, and Dart. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Mobile Development, Backend, and Full Stack**
+I am a full stack developer and an undergraduate Computer Science with some skills like HTML, PHP, JavaScript, and Dart. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Mobile Development, Backend**
 - 🌱 I’m currently learning ...
   - Dart
   - Docker
