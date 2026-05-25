@@ -1,52 +1,103 @@
-# Hi there 👋, 
-[![GitHub followers](https://img.shields.io/github/followers/heathscliff334.svg?style=social&label=Follow)](https://github.com/heathscliff334?tab=followers)<br/>
+<h1 align="center">Hi, I'm Heathscliff334 👋</h1>
+<h3 align="center">Full Stack Developer • CS Undergraduate • Building modern apps with clean UX and solid backend logic</h3>
 
+<p align="center">
+  <a href="https://github.com/heathscliff334?tab=followers">
+    <img src="https://img.shields.io/github/followers/heathscliff334?label=Followers&style=for-the-badge&color=0ea5e9" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=heathscliff334&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+</p>
 
-<img align="right" width=300px alt="Unicorn" src="https://allhacked.com/up/2019/03/hello-world.gif" />
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-# 💫 ***About Me:***
-About me<br>I am a full stack developer and an undergraduate Computer Science with some skills like HTML, PHP, JavaScript, and Dart. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Mobile Development, Backend**
-- 🌱 I’m currently learning ...
-  - Dart
-  - Docker
-  - AWS
+## About Me
 
-__Check out my GitHub repository:__
+```ts
+const heathscliff334 = {
+  role: "Full Stack Developer",
+  education: "Undergraduate in Computer Science",
+  interests: ["Mobile Development", "Backend Development", "Cloud", "AI"],
+  currentlyLearning: ["Dart", "Go", "Kubernetes", "AWS"],
+  mindset: "Build useful, creative, and innovative products"
+};
+```
 
-<div>
-  <p align="center">
-    <a href="https://github.com/heathscliff334/whatsapp_clone_ui.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=heathscliff334&repo=whatsapp_clone_ui" alt="WhatsApp Clone UI" />
-    </a>
-    <a href="https://github.com/heathscliff334/crypto_coin_list.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=heathscliff334&repo=crypto_coin_list" alt="Crypto Coin List" />
-    </a>
-    <a href="https://github.com/heathscliff334/server_telegram_bot.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=heathscliff334&repo=server_telegram_bot" alt="Server Telegram Bot" />
-    </a>
-    <a href="https://github.com/heathscliff334/flutter_quiz_app.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=heathscliff334&repo=flutter_quiz_app" alt="Quiz App Flutter" />
-    </a>
-    <a href="https://github.com/heathscliff334/flutter_camera_with_compression.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=heathscliff334&repo=flutter_camera_with_compression" alt="Quiz App Flutter" />
-    </a>
-  </p>
-</div>
+I enjoy turning ideas into practical products, learning new tools, and improving both frontend experience and backend performance.
 
+## Tech Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=heathscliff334&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=heathscliff334&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heathscliff334&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,flutter,docker,aws,git,github,vscode" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=heathscliff334&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Current Focus
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- Building full stack and mobile projects
+- Learning more about cloud deployment and containerized apps
+- Improving backend architecture and developer workflow
+
+## Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📬 <a href="https://github.com/heathscliff334/easy-mailstack">Easy Mailstack</a></h3>
+      <p>Mail-oriented project focused on streamlined workflow, practical features, and modern full stack development.</p>
+      <p><strong>Tech:</strong> Full Stack</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪙 <a href="https://github.com/heathscliff334/crypto_coin_list">Crypto Coin List</a></h3>
+      <p>Crypto listing app for exploring coin data with responsive UI and structured state handling.</p>
+      <p><strong>Tech:</strong> Flutter, Dart</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/heathscliff334/server_telegram_bot">Server Telegram Bot</a></h3>
+      <p>Backend bot project for Telegram automation and server-side integrations.</p>
+      <p><strong>Tech:</strong> Backend, Bot API</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/heathscliff334/flutter_quiz_app">Flutter Quiz App</a></h3>
+      <p>Interactive quiz application with focused mobile UX and reusable Flutter components.</p>
+      <p><strong>Tech:</strong> Flutter, Dart</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/heathscliff334/open-mplayer">Open MPlayer</a></h3>
+      <p>Media player project built around playback experience, usability, and clean app structure.</p>
+      <p><strong>Tech:</strong> Media App</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 More Projects</h3>
+      <p>Explore more builds, experiments, and full stack work in my repositories.</p>
+      <p><a href="https://github.com/heathscliff334?tab=repositories">View all repositories</a></p>
+    </td>
+  </tr>
+</table>
+
+## GitHub Overview
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=heathscliff334&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Go%20%7C%20PHP-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker%20%7C%20K8s-f59e0b?style=for-the-badge" />
+</p>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://laurenscodes.space"><img src="https://img.shields.io/badge/Portfolio-laurenscodes.space-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/heathscliff334"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=heathscliff334&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><i>Always learning. Always building. Always shipping.</i></p>
