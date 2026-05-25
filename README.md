@@ -94,8 +94,8 @@ I enjoy turning ideas into practical products, learning new tools, and improving
 <p align="left">
   <a href="https://laurenscodes.space"><img src="https://img.shields.io/badge/Portfolio-laurenscodes.space-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/heathscliff334"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kevin@laurenscodes.space"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kevin-laurence-6a61bb113"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
